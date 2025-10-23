@@ -1,7 +1,7 @@
 {
   "expo": {
     "name": "gego-fitness",
-    "slug": "gego-fitness",
+    "slug": "gego",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",

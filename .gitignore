@@ -8,3 +8,6 @@ expo-env.d.ts
 #Non importan folders
 app-example
 node_modules
+.expo/cache
+.expo/web/cache
+dist
